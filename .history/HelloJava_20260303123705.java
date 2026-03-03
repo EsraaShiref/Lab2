@@ -5,7 +5,7 @@ public class HelloJava {
         System.out.println("Hello World from main branch");
     }
     public static void printLab2() {
-    System.out.println("Lab 2 Work - main branch");
+    System.out.println("Lab 2 Work - main");
     }
 
     public static void main(String[] args) {
