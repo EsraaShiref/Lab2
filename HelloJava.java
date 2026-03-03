@@ -1,5 +1,5 @@
 // Updated version
-// This is Main Version
+// This is Dev Version
 public class HelloJava {
 
     public static void printHelloWorld() {
