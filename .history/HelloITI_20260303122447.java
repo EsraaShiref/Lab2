@@ -16,6 +16,5 @@ public class HelloITI {
     public static void main(String[] args) {
         printHelloITI();
         printHelloGit();
-        printLab2();
     }
 }
