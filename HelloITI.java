@@ -1,7 +1,7 @@
 public class HelloITI {
 
     public static void printHelloITI() {
-        System.out.println("Hello ITI");
+        System.out.println("Hello ITI From Lab2 ");
     }
     
     // Git method added
